@@ -26,6 +26,7 @@ repositories {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'com.gokul.root'
     compileSdkVersion 29
 
     defaultConfig {
